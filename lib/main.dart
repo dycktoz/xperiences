@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
         title: 'Xperiences App',
-        initialRoute: 'location',
+        initialRoute: 'login',
         routes: appRoutes,
       ),
     );
